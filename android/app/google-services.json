@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "853584392627",
+    "project_id": "full-auth-app-df43e",
+    "storage_bucket": "full-auth-app-df43e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853584392627:android:13aa20c685b184d4f05bc6",
+        "android_client_info": {
+          "package_name": "com.example.full_auth_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSpkUSC8xM-EId1uehLtst7YTUhTWftzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
